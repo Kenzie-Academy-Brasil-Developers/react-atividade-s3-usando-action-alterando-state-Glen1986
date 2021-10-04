@@ -1,4 +1,3 @@
-
 const initialState = {name: ""};
 
 const userReducer = (state = initialState, action) => {
